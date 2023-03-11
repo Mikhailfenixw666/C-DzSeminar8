@@ -9,9 +9,6 @@ int len = 4;
 int[,] table = new int[len, len];
 FillArraySpiral(table, len);
 PrintArray(table);
-
-
-//  Функция заполнения массива по спирали начиная с 1
 void FillArraySpiral(int[,] array, int n)
 {
   int i = 0, j = 0;
@@ -27,8 +24,6 @@ void FillArraySpiral(int[,] array, int n)
     n = n < 2 ? 0 : n - 2;
   }
 }
-
-//  Функция вывода двумерного массива в терминал
 void PrintArray(int[,] array)
 {
   for (int i = 0; i < array.GetLength(0); i++)
