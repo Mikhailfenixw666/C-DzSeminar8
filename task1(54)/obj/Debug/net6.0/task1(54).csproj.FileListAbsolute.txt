@@ -1,0 +1,15 @@
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\bin\Debug\net6.0\task1(54).exe
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\bin\Debug\net6.0\task1(54).deps.json
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\bin\Debug\net6.0\task1(54).runtimeconfig.json
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\bin\Debug\net6.0\task1(54).dll
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\bin\Debug\net6.0\task1(54).pdb
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\obj\Debug\net6.0\task1(54).csproj.AssemblyReference.cache
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\obj\Debug\net6.0\task1(54).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\obj\Debug\net6.0\task1(54).AssemblyInfoInputs.cache
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\obj\Debug\net6.0\task1(54).AssemblyInfo.cs
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\obj\Debug\net6.0\task1(54).csproj.CoreCompileInputs.cache
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\obj\Debug\net6.0\task1(54).dll
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\obj\Debug\net6.0\refint\task1(54).dll
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\obj\Debug\net6.0\task1(54).pdb
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\obj\Debug\net6.0\task1(54).genruntimeconfig.cache
+C:\Users\МишаАня\Desktop\Языки программирования\DZ\C#DzSeminar8\C-DzSeminar8\task1(54)\obj\Debug\net6.0\ref\task1(54).dll
